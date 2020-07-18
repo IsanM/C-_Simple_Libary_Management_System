@@ -1,7 +1,8 @@
 # This is Simple C# Libary Management System
-#How to Configure
-#Downlod and Install MS Sql Server and Create ODBC Connection
-#Database Code bellow  shown
+# How to Configure
+# Downlod and Install MS Sql Server and Create ODBC Connection
+# Database Code bellow  shown
+
 create database DOTNET8043
 use DOTNET8043
 create table  Administrator
